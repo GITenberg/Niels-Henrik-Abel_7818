@@ -1,4 +1,8 @@
 _repo: Niels-Henrik-Abel_7818
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mittag-Leffler, Magnus Gustaf
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '2542'
     url: http://www.gutenberg.org/2009/agents/2542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7818#Niels-Henrik-Abel
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
